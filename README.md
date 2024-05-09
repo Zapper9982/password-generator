@@ -15,7 +15,7 @@ This is a simple password generator built using React and Tailwind CSS.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/Zapper9982/password-generator.git
     ```
 
 2. Navigate to the project directory:
